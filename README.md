@@ -49,6 +49,11 @@ As maiores quantidades de imóveis com financiamento subsidiado pelo governo est
 
 ---
 
+<div align="center">
+<img width="1280" height="720" alt="imagem1" src="https://github.com/user-attachments/assets/4a6de32d-b38a-45dc-9b74-fbec9b58ac67" />
+</div>
+
+
 ## Gráficos Visão por Estado
 
 ### Tabela Valor subsídio FGTS/OGU por Estado
@@ -60,6 +65,10 @@ Podemos observar que o valor gasto em subsídios com recursos do FGTS/OGU foram 
 Observamos que a média da taxa de juros dos financiamentos é diretamente proporcional a média da renda familiar, sendo que os de baixa renda tem menor taxa de juros. A maior taxa de juros está nos financiamentos não subsidiados pelo programa Minha Casa, Minha Vida.
 
 ---
+<div align="center">
+<img width="1280" height="720" alt="analise_programa_gov_mcmv" src="https://github.com/user-attachments/assets/2673e1ac-94da-433f-8d66-656ba760f184" />
+</div>
+
 
 ## Conclusão
 
